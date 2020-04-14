@@ -3,14 +3,14 @@
 	<packageinformation>
 		<!-- de.niklas-schmitt.wsc.xing_profile -->
 		<packagename>Xing Benutzerprofilfeld</packagename>
-		<packagedescription>Fügt Xing als weiteren Service in den Kontaktmöglichkeiten im Benutzerpfoil hinzu</packagedescription>
-		<version>1.0.0</version>
+		<packagedescription>Fügt Xing als weiteren Service in den Kontaktmöglichkeiten im Benutzerprofil hinzu</packagedescription>
+		<version>1.0.0 pl 1</version>
 		<date>2020-04-14</date>
 		<license>https://creativecommons.org/licenses/by-sa/4.0/deed.de</license>
 	</packageinformation>
 	<authorinformation>
 		<author>Niklas Schmitt</author>
-		<authorurl>www.niklas-schmitt.de</authorurl>
+		<authorurl>https://niklas-schmitt.de</authorurl>
 	</authorinformation>
 	<requiredpackages>
 		<requiredpackage minversion="3.0.0">com.woltlab.wcf</requiredpackage>
@@ -20,7 +20,6 @@
 	</excludedpackages>
 	<compatibility>
 		<api version="2018"/>
-		<api version="2019"/>
 	</compatibility>
 	<instructions type="install">
 		<instruction type="userOption"/>
